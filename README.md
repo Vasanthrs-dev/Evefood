@@ -17,6 +17,10 @@ This is a fun project I created while learning HTML, CSS, and JavaScript. It sho
 ![Screen-3](https://github.com/user-attachments/assets/a6b4dbcb-45f7-45b1-8cd9-86643e924c40)
 ![Screen-4](https://github.com/user-attachments/assets/54a206e6-2f6b-4031-81e7-a27955a28378)
 
+## Live Demo
+
+Check out the live website [here](https://vasanthrs-dev.github.io/Evefood/).
+
 ## About Evefood
 
 "Evefood is a revolutionary AI-powered food subscription that will make you eat healthy again, 365 days per year. It's tailored to your personal tastes and nutritional needs."
