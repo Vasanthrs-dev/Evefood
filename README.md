@@ -25,8 +25,3 @@ Check out the live website [here](https://vasanthrs-dev.github.io/Evefood/).
 
 "Evefood is a revolutionary AI-powered food subscription that will make you eat healthy again, 365 days per year. It's tailored to your personal tastes and nutritional needs."
 
-## Usage
-
-Feel free to explore the code and adapt it for your own learning projects.
-
-
